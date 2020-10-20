@@ -1,4 +1,4 @@
-package com.makaryb.sampletester.sample;
+package com.makaryb.sampletester.sample.stage1;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

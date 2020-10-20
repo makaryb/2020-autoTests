@@ -1,5 +1,6 @@
-package com.makaryb.sampletester.sample;
+package com.makaryb.sampletester.sample.stage1;
 
+import com.makaryb.sampletester.sample.stage1.PrimitiveFunctionCalculator;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

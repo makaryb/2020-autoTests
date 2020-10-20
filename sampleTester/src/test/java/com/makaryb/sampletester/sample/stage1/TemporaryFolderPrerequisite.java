@@ -1,4 +1,4 @@
-package com.makaryb.sampletester.sample;
+package com.makaryb.sampletester.sample.stage1;
 
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.extension.ExtendWith;

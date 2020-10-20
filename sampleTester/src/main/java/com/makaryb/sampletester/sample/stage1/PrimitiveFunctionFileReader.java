@@ -1,4 +1,4 @@
-package com.makaryb.sampletester.sample;
+package com.makaryb.sampletester.sample.stage1;
 
 import java.io.IOException;
 import java.nio.file.Files;

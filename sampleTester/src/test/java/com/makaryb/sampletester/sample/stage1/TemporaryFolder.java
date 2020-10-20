@@ -1,4 +1,4 @@
-package com.makaryb.sampletester.sample;
+package com.makaryb.sampletester.sample.stage1;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
