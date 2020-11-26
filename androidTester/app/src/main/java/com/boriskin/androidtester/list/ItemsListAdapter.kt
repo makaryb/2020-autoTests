@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.boriskin.androidtester.R
 import kotlinx.android.synthetic.main.view_list_item.view.viewItemText
 
-class ListAdapter : RecyclerView.Adapter<ListAdapter.Element>() {
+class ItemsListAdapter : RecyclerView.Adapter<ItemsListAdapter.Element>() {
 
     private var items = List(ITEMS_AMOUNT) { idx ->
         "Element $idx"

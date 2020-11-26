@@ -9,7 +9,7 @@ import kotlinx.android.synthetic.main.activity_single_change.logoView
 
 private const val EXTRA_TEXT_FIELD = "MainActivity.textField"
 
-class SingleChangeActivity : AppCompatActivity() {
+class ChangeTextOnceActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

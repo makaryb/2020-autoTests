@@ -19,9 +19,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SingleChangeActivity" />
+        <activity android:name=".ChangeTextOnceActivity" />
         <activity android:name=".rotation.ImageRotateActivity" />
-        <activity android:name=".list.ListActivity" />
+        <activity android:name=".list.ItemsListActivity" />
         <activity android:name=".StepByStepActivity" />
         <activity android:name=".GetResultActivity" />
     </application>

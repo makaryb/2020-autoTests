@@ -5,12 +5,12 @@ import android.os.Bundle
 import com.boriskin.androidtester.R
 import kotlinx.android.synthetic.main.activity_list.list
 
-class ListActivity : AppCompatActivity() {
+class ItemsListActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_list)
 
-        list.adapter = ListAdapter()
+        list.adapter = ItemsListAdapter()
     }
 }
