@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">androidTester</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="title_item_list">Элементы</string>
+    <string name="title_item_detail">Подробнее</string>
+    <string name="clicked">Кликнуто</string>
+    <string name="get_result_description_text">Через две секунды активити завершится с результатом OK</string>
+    <string name="change_text">Изменить текст</string>
+    <string name="changed_text">Hello, Технополис!</string>
+    <string name="show_second_button">Показать еще кнопку</string>
+    <string name="show_third_button">Показать третью кнопку</string>
+    <string name="hide_all_buttons">Спрятать кнопки</string>
+    <string name="single_change">Изменить текст</string>
+    <string name="list">Список</string>
+    <string name="custom_view">Вращать</string>
+    <string name="many_steps">Пошагово</string>
+    <string name="with_result">Вернуть результат</string>
+</resources>
